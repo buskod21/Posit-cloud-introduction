@@ -1,0 +1,100 @@
+---
+title: "Introduction to posit cloud"
+author: By  Busayo Kodaolu
+date: 16/Feb/2023
+output: html_document
+---
+## 1. What is Posit cloud?
+
+Posit cloud formerly called RStudio cloud is RStudio IDE hosted in the cloud. This means you get to do your data analysis online, directly from your browser! There is no need to go through the process of downloading R and RStudio to your local computer. I think this is very neat and convenient way to jump right into your work.Teaching data science courses or workshop hasn't been easier. It brings the classroom experience without having to be in the class physically. I will explain this later.
+
+<br />
+
+![Posit cloud IDE looks exactly like your desktop RStudio IDE but directly from your browser](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/Start coding.PNG)
+
+## 2. How do you set-up?
+
+You can register for an account on your own by following to the link below.
+<br />
+[Register for posit here](https://login.posit.cloud/register?redirect=%2F).
+This will allow you to explore the posit cloud before the workshop. 
+
+Alternatively, you will receive an invite to access an account on posit cloud like the one below.
+
+<br />
+
+![](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/account-email.PNG)
+
+You can click on the link which directs you to either log in or sign up for a new account.
+
+## 3. How to navigate the personal account and organizational account
+
+Posit cloud has different account type with different [plans and pricing](https://posit.cloud/plans/free).Once you create an account, you automatically create a free account. You can then subscribe for any of the plans if the free plan is too limited for your work. However, you can also be added to an organizational account. We have subscribed for an organizational account i.e.,**University of Guelph-Workshop**, which you get added to by following the link in the email as shown above.
+
+<br />
+
+![Click on University of Guelph-Workshop to get into the organizational account](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/account.PNG)
+
+## 4. spaces, workspace?
+
+### a. Your workspace
+It isn't as complicated as it sounds. Think of your personal Workspace as your personal office space you get to do your personal work but can also invite people in to collaborate. The guest can work temporarily in your Workspace but they have to go to their own space eventually. To go to your workspace, click on the navigation side bar and follow the steps below to create a project in your Workspace. 
+
+#### **Step 1**- click on your workspace
+<br />
+![](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/workspace.PNG)
+
+<br />
+
+**This shows up**
+
+<br />
+![](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/workspace1.PNG)
+
+
+
+#### **Step 2**
+
+<br />
+
+**Then click New project, followed by New RStudio project**
+
+![](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/workspace2.PNG)
+
+<br />
+**This takes you directly into RStudio IDE**
+<br />
+![](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/workspace3.PNG)
+
+<br />
+
+Remember, you are the only one that can work in your personal Workspace. Although you can invite people to collaborate but they can't make changes to the file. They have access to a copy of the file and have to save a permanent copy to their own Workspace. To share content on your Workspace,  
+
+1. click on the gear in the upper right corner
+2. Select the access panel 
+3. Set the access to everyone
+4. You can now share the link
+
+![](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/workspace4.PNG)
+ 
+
+### b. Organization Accounts
+
+This is where most of the work in this workshop will take place. You will also receive an email invite into the workspace. 
+
+![Click the link to go directly into the workspace](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/Email invite.PNG)
+
+
+This brings you directly to the space where all the file for the workshop and packages have been pre-loaded for you. Everyone in this space have their roles and limitation as to what they can do. As a student, you will be added as a contributor 
+
+![](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/workspace5.PNG)
+
+After getting into the space, you see projects as start. After saving, it should show up as continue.
+
+![](C:/Users/busko/Dropbox/My PC (LAPTOP-22H1NK0R)/Desktop/R stats/Posit cloud/workspace6.PNG)
+
+We will preload all the files and packages you will need for the workshop. All you need to do is follow the link and get into the project page. Also, remember I said organization account is like a classroom earlier. Yes, we can peep into your work and see your progress. That gives it the classroom kind of feel where an instructor can easily help a student out. 
+
+<br />
+
+### Thank you, looking forward to seeing you all in the workshop.
